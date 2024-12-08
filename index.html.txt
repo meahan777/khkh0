@@ -1,0 +1,20 @@
+<html>
+<head>
+    <!-- Twitter Summary Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@hkemdar" />
+    <meta name="twitter:creator" content="@hkemdar" />
+    <meta property="og:url" content="https://yourwebsite.com/article" />
+    <meta property="og:title" content="TENNESSEE DIDN'T GET A HOME SEED" />
+    <meta property="og:description" content="Shouldn’t have lost to Vandy or Oklahoma. It’s that simple." />
+    <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyc4piIii9oKbfsr7LXpUDJSjndyH_O897migmXuhKIcrjIftpM6eloPoSRytQbvAK6l0n7U7D-WcqdQUA5DG2QTJvUxUMsgnhqHV5RYni_5gzmkLTm830vpvQ59n6C-JFhVWSKc6VqxrI5ZT89CpDfa3LAIMXkuUcoz1bmTkSTDtTH07C5uFUHb0En7hU/s513/%D9%84%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9%202024-12-07%20230222.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="628" />
+    <!-- End of Twitter Summary Card -->
+
+    <!-- Redirect to external link -->
+    <script>
+        window.location.href = "https://t.co/nzB5gU5uyB";
+    </script>
+</head>
+</html>
